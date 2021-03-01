@@ -1,8 +1,11 @@
-# toptal-rest-series
-A project made for Toptal's REST API TypeScript/Node.js series.
+# Node TypeScript MongoDB API Starter Project
+A Starter Project for REST API TypeScript/Node.js Development.
 
 * * *
+## How to run the project
 
-This code is published as part of the [corresponding blog article](https://www.toptal.com/express-js/nodejs-typescript-rest-api-pt-1) at the Toptal Engineering Blog.
+Run 
 
-Visit https://www.toptal.com/blog and subscribe to our newsletter to read great articles!
+`npm install`
+`npm run dev` for development mode
+`npm run start` for production mode

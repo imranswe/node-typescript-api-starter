@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/imranswe/node-typescript-api-starter.git"
   },
   "keywords": [
     "REST",
@@ -25,7 +25,7 @@
   ],
   "author": "Imran Ullah",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/imranswe/node-typescript-api-starter.git",
   "dependencies": {
     "@types/bcrypt": "^3.0.0",
     "bcrypt": "^5.0.0",
